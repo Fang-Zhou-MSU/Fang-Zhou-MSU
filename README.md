@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - **General Manager** in a chemical company (2015-2020).
   - **Financial Analyst** in a private equity firm in Shanhai (2021-2023).
 - 🖥️ I've always been fascinated by computers, which inspired me to pursue a new journey in **Computer Science**.
-📫
+  
 ## My Journey
 - 🚀 The strict lockdowns during COVID-19 in Shanghai changed my perspective on life, and I decided to explore a new chapter in the US.
 - 🎓 I'm currently studying at **Missouri State University**, diving deep into the world of the technology and programing.
